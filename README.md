@@ -1,88 +1,87 @@
-# Портфолио: Аналитик данных
+# Portfolio: Data Analyst
 
-## Обо мне
+## About me
 
-Привет! Меня зовут Алексей, я начинающий аналитик данных. В этом репозитории вы можете найти информацию об образовании, опыте работы и некоторые мои проекты, выполненные во время обучения и практики.
+Hi! My name is Alexey, I am a novice data analyst. In this repository you can find information about education, work experience and some of my projects completed during training and practice.
 
-## Образование
+## Education
 
-1997 - Уфимский государственный авиационный технический университет, Факультет информатики и робототехники, специальность «Автоматизированные системы управления», инженер-системотехник;
+1997 - Ufa State Aviation Technical University, Faculty of Computer Science and Robotics, specialty "Automated control Systems", system engineer;
 
-2000 - Уфимский государственный авиационный технический университет, Специальность «Автоматизированные системы управления», кандидат технических наук;
-
+2000 - Ufa State Aviation Technical University, Specialty "Automated control systems", Candidate of Technical Sciences
 
 2014 - City Business School, General Management, MINI-MBA Professional;
 
-2023 - SkyPro, Аналитик данных.
+2023 - SkyPro, Data Analyst.
 
-## Опыт работы
+## Work experience
 
-Март 2018 — настоящее время - ПАО "ГАЗПРОМ НЕФТЬ" (https://www.gazprom-neft.ru/), Главный специалист по внутреннему аудиту.
+March 2018 — until now - PAO (PJSC) Gazprom Neft (https://www.gazprom-neft.ru/), Chief Internal Audit Specialist.
 
-Функции: Проведение внутренних аудитов бизнес-процессов компании. Специализация: ИТ-аудитор.
+Responsibility: Conducting internal audits of the company's business processes. Specialization: IT-Auditor.
 
-Май 2008 — Март 2018 - ООО "Газпромнефть – Цифровые решения" (https://ds.gazprom-neft.ru/), Начальник отдела бизнес-систем.
+May 2008 — March 2018 - Gazpromneft – Digital Solutions LLC (https://ds.gazprom-neft.ru/), Head of Business Systems Department.
 
-Функции: обеспечение работоспособности программных комплексов и сервисов; участие во внедрении проектов и технических решений; разработка предложений по внедрению новых и модернизация существующих программных систем и сервисов; организация решения любых вопросов по направлению ИТ.
+Responsibility: ensuring the operability of software systems and services; participation in the implementation of projects and technical solutions; development of proposals for the introduction of new and modernization of existing software systems and services; organization of solving any issues in the field of IT.
 
-Ноябрь 2001 — Май 2008, АО «РН - Няганьнефтегаз" (https://nyagan.rosneft.ru/), Руководитель группы/начальник сектора (в ИТ)
+November 2001 — May 2008, JSC "RN - Nyaganneftegaz"" (https://nyagan.rosneft.ru/), Team Leader/Sector Head (in IT)
 
-Функции: формирование бизнес и финансовых планов по направлению ИТ; заключение и сопровождение договоров, проведение тендеров; приемка оборудования, программного обеспечения, работ, услуг; моделирование бизнес-процессов предприятия; разработка технической и регламентной документации; участие в проектах внедрения информационных систем.
+Responsibility: preparation of business and financial plans in the field of IT; conclusion and support of contracts, tenders; acceptance of equipment, software, works, services; modeling of business processes of the enterprise; development of technical and regulatory documentation; participation in information systems implementation projects.
 
-## Навыки и технологии
+## Skills and technologies
 
-Инструменты анализа данных: Excel, SQL, Google Sheets, Arbutus Analytics
+Data Analysis tools: Excel, SQL, Google Sheets, Arbutus Analytics
 
-Языки программирования и библиотеки: Python, Visual Basic, Pascal, Delphi
+Programming languages and libraries: Python, Visual Basic, Pascal, Delphi
 
-Системы управления базами данных: PostgreSQL
+Database management systems: PostgreSQL
 
-Средства визуализации данных:  Qlik Sense, PowerBi
+Data visualization tools: Qlik Sense, PowerBI
 
-## Проекты
+## Projects
 
-### Проект 1: Калькулятор юнит-экономики онлайн-школы
+### Project 1: Online School Unit Economics Calculator
 
-*Что нужно было сделать:*
-- презентовать бизнес-модель работы кинотеатра: кто, где и в каком объеме смотрит фильмы на этой платформе;
-- посчитать юнит-экономику продукта;
-- подготовить сценарии по настройке параметров для выхода бизнеса на 25-процентную маржинальность;
-- оценить эффективности бизнес-модели с точки зрения финансовой составляющей.
+*What needed to be done:*
+- to present the business model of the cinema: who, where and to what extent watches films on this platform;
+- calculate the unit economy of the product;
+- prepare scenarios for setting up parameters for the business to reach a 25% marginality;
+- evaluate the effectiveness of the business model from the point of view of the financial component.
 
 [#My/Project_1](https://github.com/Aleksei-Shashkov/My/tree/main/Project_1)
 
-**Выводы:** текущая бизнес-модель неэффективна с точки зрения финансовой составляющей:
-- Retention падает;
-- число новых подписчиков уменьшается;
-- выручка падает.
+**Conclusions:** the current business model is inefficient from financial aspect:
+- Retention is falling;
+- the number of new subscribers is decreasing;
+- revenue is falling.
 
-Для вывода бизнеса из кризисной ситуации и достижения рентабельности в 25% предлагается 2 сценария:
-- с перспективой выхода на целевой уровень через 12 месяцев;
-- с перспективой выхода на целевой уровень через 18 месяцев.
+To bring the business out of a crisis situation and achieve profitability of 25%, 2 scenarios are proposed:
+- with the prospect of reaching the target level in 12 months;
+- with the prospect of reaching the target level in 18 months.
 
-### Проект 2: Моделирование изменения балансов студентов онлайн-школы SKYENG с помощью SQL
+### Project 2: Modeling changes in the balances of students of the SKYENG online school using SQL
 
-*Что нужно было сделать:* смоделировать изменение балансов студентов:
-- определить число уроков на балансе всех учеников за каждый календарный день;
-- отразить динамику изменения уроков под влиянием транзакций (оплат, начислений) и уроков (списаний с баланса по мере прохождения уроков)
-- создать таблицу балансов каждого студента за каждый день.
+*What needed to be done:* simulate the change in student balances:
+- determine the number of lessons on the balance of all students for each calendar day;
+- reflect the dynamics of changes in lessons under the influence of transactions (payments, accruals) and lessons (deductions from the balance as lessons progress);
+- create a table of balances of each student for each day.
 
 [#My/Project_2](https://github.com/Aleksei-Shashkov/My/tree/main/Project_2)
 
-**Выводы:** 
-1. Создана таблица балансов каждого студента за каждый день.
-2. В течение 2016 г. наблюдается рост 
-- общего количества уроков на балансах студентов;
-- числа транзакций;
-- количества списанных уроков.
-Скорее всего это связано с ростом числа студентов, обучающихся на платформе.
-3. Выявлены аномалии в данных, направлены дата-инженерам / владельцам таблиц для анализа.
+**Conclusions:** 
+1. The table of balances of each student for each day has been created.
+2. During 2016, there is an increase in 
+- the total number of lessons on students' balance sheets;
+- transaction numbers;
+- the number of lessons written off.
+Most likely, this is due to the growing number of students studying on the platform.
+3. Anomalies in the data were identified, sent to data engineers / owners of tables for analysis.
 
-## Хобби
+## Hobby
 
-Спорт, путешествия, интеллектуальные игры.
+Sports, travel, intellectual games.
 
-## Контактная информация
+## Contact information
 
 Email: AShashkov2@gmail.com
 
