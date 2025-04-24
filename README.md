@@ -81,6 +81,28 @@ To bring the business out of a crisis situation and achieve profitability of 25%
 Most likely, this is due to the growing number of students studying on the platform.
 3. Anomalies in the data were identified, sent to data engineers / owners of tables for analysis.
 
+  ### Project 3: Modeling changes in the balances of students of the SKYENG online school using SQL
+  **Task**
+  As a data analyst at a large retailer SkyLenta, it is necessary to analyze the AB-Test conducted in different cities, visualize the results, conduct segmentation, and also draw conclusions and formulate recommendations for further launches of the AB Test.
+
+  **Objective of the experiment**
+- Study of an alternative method of influencing customer purchases using push notifications.
+- “Control” impact - notification of new products and discounts using a banner in the application
+- “Test” impact - notification using push (message about products and discounts will appear in application notifications).
+- 
+[#My/Project_3](https://github.com/Aleksei-Shashkov/My/tree/main/Project_3)
+
+ **Experiment design**
+Experiment duration - 3 months.
+Geography: all cities of presence in Russia are involved in the experiment.
+
+**Split system**
+Customers are divided into two groups of equal size randomly.
+
+**Target metrics**
+- Conversion from advertising to purchase
+- Average check
+
 ## Hobby
 
 As a fan I like to watch hockey, tennis, biathlon, football, as a sportsman I sometimes run, swim, play volleyball, football, ping-pong, chess. I love hiking, camping, rafting and as a tourist I visited more than 30 countries. Moreover I love reading, intellectual games, chocolate and I also play the guitar. 
