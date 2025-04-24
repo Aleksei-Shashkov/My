@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi! My name is Alexey, I am a novice data analyst. In this repository you can find information about education, work experience and some of my projects completed during training and practice.
+Hi! My name is Aleksei, I'm developing in a data analysis. In this repository you can find information about education, work experience and some of my projects completed during training and practice.
 
 ## Education
 
@@ -16,7 +16,7 @@ Hi! My name is Alexey, I am a novice data analyst. In this repository you can fi
 
 ## Work experience
 
-March 2018 — until now - PAO (PJSC) Gazprom Neft (https://www.gazprom-neft.ru/), Chief Internal Audit Specialist.
+March 2018 — November 2023 - PAO (PJSC) Gazprom Neft (https://www.gazprom-neft.ru/), Chief Internal Audit Specialist.
 
 Responsibility: Conducting internal audits of the company's business processes. Specialization: IT-Auditor.
 
@@ -30,13 +30,17 @@ Responsibility: preparation of business and financial plans in the field of IT; 
 
 ## Skills and technologies
 
-Data Analysis tools: Excel, SQL, Google Sheets, Arbutus Analytics
+Data Analysis tools: Excel, SQL, Google Sheets, Minit, Arbutus Analytics
 
-Programming languages and libraries: Python, Visual Basic, Pascal, Delphi
+Programming languages and libraries: Python (Pandas, Numpy, SciPy, Matplotlib, Seaborn), Visual Basic, Pascal, Delphi
 
 Database management systems: PostgreSQL
 
-Data visualization tools: Qlik Sense, PowerBI
+Data visualization tools: Power BI, Qlik Sense, PowerPoint
+
+Knowledges: CISA, SAP, math, probability theory, statistics
+
+Experience: internal audit / IT audit; business process modeling (Minit, ARIS, IDEF)
 
 ## Projects
 
@@ -79,10 +83,10 @@ Most likely, this is due to the growing number of students studying on the platf
 
 ## Hobby
 
-Sports, travel, intellectual games.
+As a fan I like to watch hockey, tennis, biathlon, football, as a sportsman I sometimes run, swim, play volleyball, football, ping-pong, chess. I love hiking, camping, rafting and as a tourist I visited more than 30 countries. Moreover I love reading, intellectual games, chocolate and I also play the guitar. 
 
 ## Contact information
 
 Email: AShashkov2@gmail.com
 
-Tel: +7-908-880-0205
+Tel: +32-470-798-112
